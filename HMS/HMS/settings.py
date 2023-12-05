@@ -139,7 +139,7 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # jazzmin settings
 JAZZMIN_SETTINGS = {
     "site_header": "HMS",
-    "site_brand": "Your #1 marketplace for collectibles",
+    "site_brand": "Welcome to HMS",
     "site_logo": "books/img/logo.png",
     "welcome_sign": "Welcome admin to the HMS admin panel, Login now",
     "copyright": "All right reserved 2023",
